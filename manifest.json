@@ -1,0 +1,11 @@
+{
+  "name": "WeatherTracker",
+  "version": "1.0.0",
+  "description": "extension to see weather in El Paso",
+  "manifest_version": 3,
+  "author": "Osiris Loera",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Weather Today"
+  }
+}
